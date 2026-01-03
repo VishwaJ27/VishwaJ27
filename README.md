@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18,26,34,42,50&height=230&section=header&text=VISHWA%20J&fontSize=70&fontAlignY=33&animation=fadeIn&fontColor=FFFFFF&stroke=FFB703&strokeWidth=5&desc=🔥%20Full%20Stack%20Developer%20|%20Code%20Craftsman&descAlignY=82&descSize=29&descColor=FFF2CC" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18,26,34,42,50&height=230&section=header&text=VISHWA%20J&fontSize=70&fontAlignY=33&animation=fadeIn&fontColor=FFFFFF&stroke=FFB703&strokeWidth=5&desc=%20Full%20Stack%20Developer%20|%20Computer%20Science&descAlignY=82&descSize=29&descColor=FFF2CC" />
 </p>
 
 
@@ -9,12 +9,12 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=26&duration=3000&color=FFB703&center=true&vCenter=true&width=700&lines=🌐+CONNECT+%7C+⚡+STATS+%7C+VISHWA+J+NETWORK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=26&duration=3000&color=FFB703&center=true&vCenter=true&width=700&lines=+CONNECT+%7C+STATS+%7C+VISHWA+J+NETWORK&repeat=false" />
 </h3>
 
 <div align="center">
 
-| 🌐 Connect | ⚡ Stats |
+|  Connect |  Stats |
 |:-----------:|:----------:|
 | <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFB703?style=for-the-badge&logo=linkedin&logoColor=000000"/></a> <a href="https://github.com/VishwaJ"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFB703"/></a> <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFB703"/></a> <a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FFB703?style=for-the-badge&logo=firefox&logoColor=000000"/></a> | <img src="https://komarev.com/ghpvc/?username=VishwaJ&label=👁️%20VIEWS&color=FFB703&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/VishwaJ?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=FFB703"/> |
 
@@ -23,7 +23,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=400&lines=👋+ABOUT+ME" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=400&lines=ABOUT+ME&repeat=false" />
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=500&lines=🛠️+TECHNICAL+STACK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=500&lines=TECHNICAL+STACK&repeat=false" />
 </h3>
 
 <div align="center">
@@ -105,22 +105,23 @@
 
 
 
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=600&lines=FEATURED+PROJECTS&repeat=false" />
 </h3>
 
 <div align="center">
 
 <table>
   <tr>
-    <th align="center">💼 Project</th>
-    <th align="center">📌 Description</th>
-    <th align="center">🛠️ Tech Focus</th>
+    <th align="center"> Project</th>
+    <th align="center"> Description</th>
+    <th align="center"> Tech Focus</th>
   </tr>
 
   <tr>
-    <td align="center"><b>💰 Expense Analyser</b></td>
+    <td align="center"><b> Expense Analyser</b></td>
     <td>
       A smart expense tracking application that helps users monitor daily spending,
       categorize expenses, and gain insights into their financial habits.
@@ -130,7 +131,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>📝 To-Do App</b></td>
+    <td align="center"><b> To-Do App</b></td>
     <td>
       A productivity-focused task management app allowing users to create,
       update, and organize tasks efficiently.
@@ -140,7 +141,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>🎯 Smart Attendance System</b></td>
+    <td align="center"><b> Smart Attendance System</b></td>
     <td>
       An intelligent attendance management system that automates
       attendance tracking and minimizes manual errors.
@@ -150,7 +151,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>🔐 Password Generator</b></td>
+    <td align="center"><b> Password Generator</b></td>
     <td>
       A secure password generation tool that creates strong,
       customizable passwords using multiple character sets.
@@ -160,7 +161,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>⌨️ Typing Speed Tester</b></td>
+    <td align="center"><b> Typing Speed Tester</b></td>
     <td>
       An interactive typing test application that measures typing speed,
       accuracy, and performance in real time.
@@ -177,18 +178,18 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=850&lines=🏆+COMPETITIVE+PROGRAMMING+ACHIEVEMENTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=850&lines=COMPETITIVE+PROGRAMMING+ACHIEVEMENTS&repeat=false" />
 </p>
 
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 <!-- CODECHEF -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🍽️+CODECHEF" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=CODECHEF&repeat=false" />
 
 <p>
 <b>Handle:</b> <span style="color:#FFB703;">kit27csbs61</span><br>
-<b>Rating:</b> 888 <i>(1★ Coder)</i><br>
+<b>Rating:</b> 970 <br>
 <b>Problems Solved:</b> 275+<br>
 <b>Contests:</b> 80+
 </p>
@@ -196,7 +197,7 @@
 <br>
 
 <!-- LEETCODE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🧩+LEETCODE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=LEETCODE&repeat=false" />
 
 <p>
 <b>Handle:</b> <span style="color:#FFB703;">kit27csbs61</span><br>
@@ -210,7 +211,7 @@
 <td width="50%" valign="top">
 
 <!-- CODOLIO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=📊+CODOLIO" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=CODOLIO&repeat=false" />
 
 <p>
 <b>Profile:</b> <span style="color:#FFB703;">Vishwa_J</span><br>
@@ -221,7 +222,7 @@
 <br>
 <br>
 <!-- TRAILHEAD -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=☁️+TRAILHEAD" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=TRAILHEAD&repeat=false" />
 
 <p>
 <b>Profile:</b> <span style="color:#FFB703;">VishwaJ</span><br>
@@ -235,14 +236,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=500&lines=🎓+EDUCATION" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=500&lines=EDUCATION&repeat=false" />
 </p>
 
 <!-- UG CENTER CARD -->
 <div align="center">
   <div style="border:1px solid #FFB703; border-radius:14px; padding:20px; width:90%;">
 
-  <h3 align="center">🎓 Undergraduate</h3>
+  <h3 align="center"> Undergraduate</h3>
 
   <p align="center">
     <b>Bachelor of Technology</b><br>
@@ -250,13 +251,13 @@
   </p>
 
   <p align="center">
-    📍 <b>Kalaignar Karunanidhi Institute of Technology (KIT)</b>, Coimbatore<br>
-    🗓️ <b>2023 – 2027</b>
+     <b>Kalaignar Karunanidhi Institute of Technology (KIT)</b>, Coimbatore<br>
+     <b>2023 – 2027</b>
   </p>
 
   <p align="center">
-    ⭐ <b>CGPA:</b> <span style="color:#FFB703;"><b>7.70 / 10</b></span><br>
-    📘 <b>Status:</b> Pursuing (3rd Year)
+     <b>CGPA:</b> <span style="color:#FFB703;"><b>7.70 / 10</b></span><br>
+     <b>Status:</b> Pursuing (3rd Year)
   </p>
 
   </div>
@@ -272,12 +273,12 @@
 <td width="50%" valign="top" align="center">
   <div style="border:1px solid #FFB703; border-radius:14px; padding:20px; margin-right:8px;">
 
-  <h3>🏫 Higher Secondary</h3>
+  <h3> Higher Secondary</h3>
 
   <p>
     <b>Century Foundation Matric Higher Secondary School</b><br>
-    🗓️ 2021 – 2023<br>
-    ⭐ <b>Class XII:</b> 72.5%
+     2021 – 2023<br>
+    <b>Class XII:</b> 72.5%
   </p>
 
   </div>
@@ -287,12 +288,12 @@
 <td width="50%" valign="top" align="center">
   <div style="border:1px solid #FFB703; border-radius:14px; padding:20px; margin-left:8px;">
 
-  <h3>🏫 Secondary</h3>
+  <h3> Secondary</h3>
 
   <p>
     <b>Century Foundation Matric Higher Secondary School</b><br>
-    🗓️ 2020 – 2021<br>
-    ⭐ <b>Class X:</b> PASS
+     2020 – 2021<br>
+    <b>Class X:</b> PASS
   </p>
 
   </div>
@@ -303,7 +304,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=700&lines=📜+CERTIFICATIONS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=28&duration=3000&color=FFB703&center=true&vCenter=true&width=700&lines=CERTIFICATIONS&repeat=false" />
 </p>
 
 <div align="center">
@@ -315,7 +316,7 @@
 <td width="20%" valign="top">
 
 <!-- COURSERA -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🎓+COURSERA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=COURSERA&repeat=false" />
 
 <p>
 • Algorithms<br>
@@ -324,7 +325,7 @@
 </p>
 
 <!-- EDUSKILLS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=💼+EDUSKILLS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=EDUSKILLS&repeat=false" />
 
 <p>
 • Virtual Internship – Web Full Stack Developer<br>
@@ -333,7 +334,7 @@
 
 
 <!-- INFOSYS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🏢+INFOSYS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=INFOSYS&repeat=false" />
 
 <p>
 • Data Structures<br>
@@ -347,7 +348,7 @@
 <td width="20%" valign="top">
 
 <!-- JUNIPER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🌐+JUNIPER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=JUNIPER&repeat=false" />
 
 <p>
 • CCNA<br>
@@ -356,7 +357,7 @@
 
 
 <!-- CISCO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=🔐+CISCO" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=CISCO&repeat=false" />
 
 <p>
 • Python Essentials 1<br>
@@ -366,7 +367,7 @@
 
 
 <!-- SCALER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=⚛️+SCALER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&color=FFB703&lines=SCALER&repeat=false" />
 
 <p>
 • React JS
@@ -382,7 +383,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=26&color=FFB703&center=true&vCenter=true&width=900&lines=🔢+REPOSITORY+ANALYTICS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=26&color=FFB703&center=true&vCenter=true&width=900&lines=REPOSITORY+ANALYTICS&repeat=false" />
 </p>
 
 <p align="center">
@@ -402,9 +403,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=22&duration=1&pause=1400&color=FFB703&center=true&width=1000&lines=............................................................................................................" />
 </p>
 
+
+
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 <p align="center">
   <a href="https://github.com/VishwaJ/VishwaJ/raw/main/Vishwa_J_Resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-FFB703?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/%20DOWNLOAD%20RESUME-FFB703?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000"/>
   </a>
 </p>
 
